@@ -16,16 +16,6 @@
 
 ---
 
-## 📸 Demonstração
-
-*(Dica: Adicione uma captura de tela do seu app aqui para deixar o README ainda mais atraente!)*
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x450?text=AppLab+Dashboard+Preview" alt="AppLab Preview">
-</p>
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - [Python](https://www.python.org/) - Linguagem base.
@@ -69,8 +59,4 @@ Desenvolvido com ❤️ por **juu.dev**
 
 - **GitHub:** [rip-pky](https://github.com/rip-pky)
 
----
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
