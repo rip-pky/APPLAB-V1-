@@ -33,23 +33,6 @@
 - Windows 10 ou 11
 - Python 3.10 ou superior
 
-### Instalação
-
-1. **Clone o repositório:**
-   ```bash
-   git clone <https://github.com/rip-pky/applab.git>
-   cd applab
-   ```
-
-2. **Instale as dependências:**
-   ```bash
-   pip install customtkinter pillow pywin32 winshell
-   ```
-
-3. **Execute o AppLab:**
-   ```bash
-   python main.py
-   ```
 
 ---
 
